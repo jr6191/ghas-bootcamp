@@ -5,6 +5,8 @@
   <a href="#books-resources">Resources</a>
 </p>
 
+## This repository is deprecated and will no longer be updated. Bootcamp materials are all currently in a private repository that is invite-only. 
+
 > This bootcamp is designed to help familiarize you with GitHub Advanced Security (GHAS) so that you can better understand how to use it in your own repositories.
 
 ## :mega: Prerequisites
