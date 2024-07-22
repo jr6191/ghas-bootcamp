@@ -12,8 +12,6 @@ updates:
       labels:
         - "triage-required"
       assignees:
-        - "dungeonstechlead"
-      reviewers:
-        - "dragonsengineer"
+        - "parkjohnston"
       commit-message:
         prefix: "maven"
